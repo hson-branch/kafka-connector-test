@@ -7,7 +7,7 @@ pglogical_subscription_status:
         description: "Name of the current subscription"
     - status:
         usage: "GAUGE"
-	description: "Name of the replication status, 1 is replicating, 0 is down or something"
+        description: "Name of the replication status, 1 is replicating, 0 is down or something"
 
 
 pg_replication:
