@@ -1,0 +1,3 @@
+[submodule "postgres_exporter"]
+	path = postgres_exporter
+	url = https://github.com/prometheus-community/postgres_exporter.git
